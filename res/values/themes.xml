@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<!-- Due to limitations in Android's theming system any theme customizations must be declared in two attributes -->
+
+	<style name="CCTheme.ActionBarRed" parent="Theme.Sherlock.Light.ForceOverflow">
+		<item name="actionBarStyle">@style/CCTheme.SherlockActionBarStyle.CCRedBackground</item>
+		<item name="android:actionBarStyle">@style/CCTheme.SherlockActionBarStyle.CCRedBackground</item>
+		<item name="actionMenuTextAppearance">@style/CCTheme.ActionBar.MenuTextAppearance.Default</item>
+		<item name="android:actionMenuTextAppearance">@style/CCTheme.ActionBar.MenuTextAppearance.Default</item>
+	</style>
+
+	<style name="CCTheme.ActionBarLight" parent="Theme.Sherlock.Light.ForceOverflow">
+		<item name="actionBarStyle">@style/CCTheme.SherlockActionBarStyle.LightBackground</item>
+		<item name="android:actionBarStyle">@style/CCTheme.SherlockActionBarStyle.LightBackground</item>
+		<item name="actionMenuTextAppearance">@style/CCTheme.ActionBar.MenuTextAppearance.Default</item>
+		<item name="android:actionMenuTextAppearance">@style/CCTheme.ActionBar.MenuTextAppearance.Default</item>
+	</style>
+
+	<style name="CCTheme.SherlockActionBarStyle.CCRedBackground" parent="Widget.Sherlock.ActionBar">
+		<item name="background">#BE001C</item>
+		<item name="android:background">#BE001C</item>
+		<item name="titleTextStyle">@style/CCTheme.ActionBar.TextAppearance.Default</item>
+		<item name="android:titleTextStyle">@style/CCTheme.ActionBar.TextAppearance.Default</item>
+	</style>
+
+	<style name="CCTheme.SherlockActionBarStyle.LightBackground" parent="Widget.Sherlock.ActionBar">
+		<item name="background">#DEDEDE</item>
+		<item name="android:background">#DEDEDE</item>
+		<item name="titleTextStyle">@style/CCTheme.ActionBar.TextAppearance.Default</item>
+		<item name="android:titleTextStyle">@style/CCTheme.ActionBar.TextAppearance.Default</item>
+	</style>
+
+	<style name="CCTheme.ActionBar.TextAppearance.Default" parent="TextAppearance.Sherlock.Widget.ActionBar.Title">
+		<item name="android:textSize">17sp</item>
+		<item name="android:textStyle">normal</item>
+		<item name="android:textColor">#FFF</item>
+	</style>
+
+	<style name="CCTheme.ActionBar.MenuTextAppearance.Default" parent="TextAppearance.Sherlock.Widget.ActionBar.Menu">
+		<item name="android:textSize">15sp</item>
+		<item name="android:textAllCaps">false</item>
+	</style>
+
+</resources>

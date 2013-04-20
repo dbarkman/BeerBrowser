@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeerBrowser</string>
+    <string name="beerStyles">Beer Styles</string>
+
+	<string name="apiURI">http://api.brewerydb.com/v2/</string>
+	<string name="bdbAPIKey">e01f360418e49a355030bd05186082a4</string>
+
+</resources>
