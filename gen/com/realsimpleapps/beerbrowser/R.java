@@ -827,18 +827,17 @@ containing a value of this type.
         public static final int beerStyles=0x7f040028;
         public static final int beerStylesSpinner=0x7f040029;
         public static final int disableHome=0x7f040009;
-        public static final int fragment_container=0x7f04002a;
         public static final int homeAsUp=0x7f040006;
         public static final int listMode=0x7f040002;
         public static final int mainRelativeLayout=0x7f040027;
         public static final int normal=0x7f040001;
-        public static final int separator=0x7f04002b;
+        public static final int separator=0x7f04002a;
         public static final int showCustom=0x7f040008;
         public static final int showHome=0x7f040005;
         public static final int showTitle=0x7f040007;
         public static final int tabMode=0x7f040003;
-        public static final int txtSubTitle=0x7f04002d;
-        public static final int txtTitle=0x7f04002c;
+        public static final int txtSubTitle=0x7f04002c;
+        public static final int txtTitle=0x7f04002b;
         public static final int useLogo=0x7f040004;
         public static final int wrap_content=0x7f040000;
     }
@@ -867,11 +866,10 @@ containing a value of this type.
         public static final int abs__screen_simple=0x7f030012;
         public static final int abs__screen_simple_overlay_action_mode=0x7f030013;
         public static final int beer_styles=0x7f030014;
-        public static final int beers=0x7f030015;
-        public static final int sectioned_list_item=0x7f030016;
-        public static final int sherlock_spinner_dropdown_item=0x7f030017;
-        public static final int sherlock_spinner_item=0x7f030018;
-        public static final int title_subtitle_item=0x7f030019;
+        public static final int sectioned_list_item=0x7f030015;
+        public static final int sherlock_spinner_dropdown_item=0x7f030016;
+        public static final int sherlock_spinner_item=0x7f030017;
+        public static final int title_subtitle_item=0x7f030018;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
