@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="CCTheme.ActionBarRed" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="CCTheme.ActionBarRed" />
+      </GlobalState>
+    </option>
+  </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/actionbarsherlock/R.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BeerBrowser.apk" afterPath="$PROJECT_DIR$/bin/BeerBrowser.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dexedLibs/actionbarsherlock-4.1-105f039af53badc7aa3097bc01656be4.jar" afterPath="$PROJECT_DIR$/bin/dexedLibs/actionbarsherlock-4.1-105f039af53badc7aa3097bc01656be4.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes.dex" afterPath="$PROJECT_DIR$/bin/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/resources.ap_" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/realsimpleapps/beerbrowser/BuildConfig.java" afterPath="$PROJECT_DIR$/gen/com/realsimpleapps/beerbrowser/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/realsimpleapps/beerbrowser/R.java" afterPath="$PROJECT_DIR$/gen/com/realsimpleapps/beerbrowser/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/title_subtitle_item.xml" afterPath="$PROJECT_DIR$/res/layout/title_subtitle_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BeerBrowser.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996040545" ignored="false" />
+    <file path="/Dummy.txt" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380147470140" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/src/com/appointmentplus/appointmentplus/Fragments/CustomAppointmentsDayFragment.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996149025" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/src/com/appointmentplus/appointmentplus/Tasks/RestTask.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996197218" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/res/values/com_crashlytics_tools_strings.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996448493" ignored="false" />
-    <file path="/a.dummy" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996632301" ignored="false" />
+    <file path="/a.dummy" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380169687649" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/AndroidManifest.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996645992" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/gen/com/appointmentplus/appointmentplus/BuildConfig.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996774851" ignored="false" />
     <file path="$PROJECT_DIR$/../../../StormSource/Android/AndroidPhone/res/values/com_crashlytics_export_strings.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1366996774851" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar!/org/jetbrains/android/android.xsd" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1368138435535" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/res/values/com_crashlytics_export_strings.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380169807757" ignored="false" />
+    <file path="/fragment.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380164980797" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/src/com/appointmentplus/CustomerView/Adapters/AppointmentListAdapter.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380147558147" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/src/com/appointmentplus/CustomerView/Activities/LandingPageActivity.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380170224166" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/src/com/appointmentplus/CustomerView/Adapters/TitleSubtitleAdapter.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380165169228" ignored="false" />
+    <file path="/LandingPageActivity.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380170215572" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/src/com/appointmentplus/CustomerView/Clients/APIClient.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380168128518" ignored="false" />
+    <file path="/APIClient.java" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380166204313" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../StormSource/Android/CustomerView/res/values/strings.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380167202276" ignored="false" />
+    <file path="/strings.xml" changelist="ad5c3ee7-58c2-4c52-bb28-bf4f2912720b" time="1380167202276" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +62,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -71,6 +98,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -80,10 +108,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RestTask.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RestTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/RestTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="0" selection-start="2435" selection-end="2469" vertical-scroll-proportion="0.6456241">
+            <state line="55" column="9" selection-start="1655" selection-end="1655" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TitleSubtitleAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/TitleSubtitleAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeersActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/BeersActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="39" selection-start="2891" selection-end="2891" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeerStylesActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/BeerStylesActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="63" selection-start="2411" selection-end="2477" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#2465#2473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="title_subtitle_item.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/title_subtitle_item.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="67" selection-start="198" selection-end="198" vertical-scroll-proportion="0.14634146">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SherlockFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../StormSource/Android/ActionBarSherlock-4.1/src/com/actionbarsherlock/app/SherlockFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,10 +184,17 @@
       <MyDateState />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/layout/title_subtitle_item.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="845" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -136,7 +223,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,8 +259,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeerBrowser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeerBrowser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeerBrowser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeerBrowser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +302,8 @@
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../StormSource/Android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesertCodeCamp" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -197,6 +317,24 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -311,6 +449,8 @@
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -350,27 +490,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="845" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998565" sideWeight="0.6703297" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6703297" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -435,10 +579,70 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/RestTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="2435" selection-end="2469" vertical-scroll-proportion="0.6456241">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/RestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/RestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="9" selection-start="1655" selection-end="1655" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/TitleSubtitleAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/BeerStylesActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="63" selection-start="2411" selection-end="2477" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#2465#2473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/realsimpleapps/beerbrowser/BeersActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="39" selection-start="2891" selection-end="2891" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../StormSource/Android/ActionBarSherlock-4.1/src/com/actionbarsherlock/app/SherlockFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/title_subtitle_item.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="67" selection-start="198" selection-end="198" vertical-scroll-proportion="0.14634146">
           <folding />
         </state>
       </provider>
